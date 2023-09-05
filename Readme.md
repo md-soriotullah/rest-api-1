@@ -29,3 +29,19 @@ app.listen(port, () => {
     console.log(`Server is running on port ${port}`.bgCyan.black);
 });
 ```
+
+### uses packages
+
+1. express js
+
+2. nodemon
+
+3. dotenv
+
+4. colors
+
+#### server start comand
+
+```console
+$ npm start
+```
